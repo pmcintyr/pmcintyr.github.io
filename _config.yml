@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: Lausanne Time Machine Project
 description: Bookmark this to keep an eye on my project updates!
+
+layout: page
+title: "Introduction"
+permalink: /introduction
