@@ -1,5 +1,3 @@
-![Photo of Lausanne](/docs/assets/lausanne.jpg)
-
 ### Task 1
 Identify streets with unique spellings by comparing yearly files.
 Map these streets with their corresponding modern street names.
