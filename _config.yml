@@ -3,5 +3,9 @@ title: Lausanne Time Machine Project
 description: Bookmark this to keep an eye on my project updates!
 
 layout: page
+title: "README"
+permalink: /readme
+
+layout: page
 title: "Introduction"
 permalink: /introduction
