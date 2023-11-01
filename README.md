@@ -1,16 +1,14 @@
 ![Photo of Lausanne](/docs/assets/lausanne.jpg)
 
 ### Task 1
-Identify streets with unique spellings by comparing yearly files.
-Map these streets with their corresponding modern street names.
+Identify streets with unique or multiple spellings by comparing yearly files.
 
 ### Task 2
 Find mistakes in street names (spaces, numbers, different spellings, missing characters, overflows in next column/row).
 Correct mistakes and log changes.
 
 ### Task 3
-Identify streets with multiple spellings by comparing yearly files.
-Map these streets with their corresponding modern street names.
+Map uniquely named and non-uniquely named streets with their corresponding modern street names.
 
 ### Task 4
 Verify the house numbers are in strictly increasing order for a same street, by adding an error detection column with encoded values based on error type.
