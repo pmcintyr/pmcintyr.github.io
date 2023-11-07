@@ -11,7 +11,7 @@ Correct mistakes and log changes.✔️ (This was achieved by manual dictionary 
 Provide [mappings](https://github.com/pmcintyr/pmcintyr.github.io/blob/main/mappings.csv) between uniquely named and non-uniquely named streets with their corresponding modern street names. ✔️ (This was be done by cross-examining street names with Lausanne [toponyms](https://github.com/RPetitpierre/merian/blob/main/assets/data/toponyms.geojson)).
 
 ### Task 4
-Verify the house numbers are in strictly increasing order for a same street, by adding an error detection column with encoded values based on error type.
+Verify the house numbers are in strictly increasing order for a same street, by adding an error detection column with encoded values based on error type. ✔️ (This is done in the notebook in the house_number_clean function that we can call on each function).
 
 ### Task 5
 Track the homeowner name continuity by comparing yearly files for a same address.
