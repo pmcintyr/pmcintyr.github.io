@@ -18,3 +18,10 @@ Track the homeowner name continuity by comparing yearly files for a same address
 
 ### Task 6
 Map rows between each yearly file and make a streetmap with yearly evolution of the best homeowner mappings.
+
+### Recits Lausannois
+![AI-generated Photo of Jean Mandrot's Family](/docs/assets/jean_mandrot.jpg)
+
+Je m'appelle Jean Mandrot, et je suis né en 1785 à Morges, au bord du lac Léman en Suisse. 
+Dès mon plus jeune âge, j'ai développé un vif intérêt pour la loi et la justice, ce qui m'a finalement conduit à devenir avocat.
+Durant mes études juridiques, j'ai rencontré l'amour de ma vie, Hendens, une femme extraordinaire avec qui j'ai pu fonder une famille à Lausanne à la place de la Riponne 23. Nous nous sommes mariés et nous avons eu cinq enfants merveilleux, Lina, Jules, Dorille, Marie, et Elisa. Au fil des ans, notre maison est devenue un lieu accueillant pour plusieurs pensionnaires qui ont trouvé refuge sous notre toit. Parmi ces pensionnaires, Anne Roth était une cuisinière distinguée. Ses plats délicieux ont uni notre famille autour de la nourriture, même si je dois vous avouer que notre petite Elisa préférait jouer avec sa nourriture que de la manger. Nos enfants ont grandi et se sont épanouis, suivant leurs propres chemins dans la vie avec les valeurs que nous leur avons transmises. Je suis reconnaissant pour la vie que j'ai eue, pour ma famille aimante et pour la chance d'avoir pu servir ma communauté en tant qu'avocat. J'espère que vous trouverez autant de bonheur dans votre vie que moi et ma famille et je dois vous dire adieu, je suis en retard pour le procès de mon client!
