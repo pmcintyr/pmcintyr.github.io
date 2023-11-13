@@ -45,3 +45,10 @@ Je m'appelle Auguste Piot, je suis né en 1784 à Pailly et j'habite à la rue d
 Ma femme Ansermier est née en 1783 et est décédée en 1852.
 En 1845, nous avions hébergé une pensionnaire bernoise: Marie Pinchotte.
 À partir de 1848, on hébergeait 2 domestiques: Susette et Mermoud de Poliez-le-Grand.
+
+![AI-generated Photo of César Dufournet and family](/docs/assets/cesar_dufournet.jpg)
+Je m'appelle César Dufournet. Je suis né en 1790, je viens de Lausanne et j'habite à la Rue Cité-Devant 1.
+Je suis un professeur dans une école vaudoise. Je suis marié à Madame Chavannes, née en 1793.
+Nous avons 6 filles, Pauline, Charlotte, Elise, Emma, Helene et Sophie nées en 1827, 1828, 1830, 1831, 1835 et 1835.
+Charlotte est décédée en 1843 à 15 ans. Emma s'est mariée et est partie de la maison en 1850 à 19 ans.
+On héberge 3 domestiques: Marianne Gonnet de Vuarrens, Lise Bosset de Bex et Henriette Pillet de Pampigny.
