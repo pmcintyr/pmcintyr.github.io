@@ -32,3 +32,10 @@ Je suis né en 1801 et j'ai grandi dans une famille de pêcheurs avec mes frère
 J'ai épousé Julie Blanc, née en 1807, avec qui j'ai eu 2 enfants: Louis et Henri, nés en 1835 et 1842.
 Mes frères et moi sommes tous pêcheurs et nous pêchons ensemble tous les jours pour nourrir notre famille.
 Nous vivons sans pensionnaires, mais avec mes frères on se sent jamais seul!
+
+![AI-generated Photo of Maurice Epach and appentice](/docs/assets/maurice_epach.jpg)
+Je m'appelle Maurice Epach, je suis né en 1805 à Lausanne et j'habite à la rue du pré 1.
+Je suis un marchand célibataire et sans enfants.
+Pour me porter compagnie, j'ai décidé d'héberger des pensionnaires pour m'assister dans mes tâches quotidiennes.
+D'abord j'avais une domestique qui s'appelait Marie Sorent, mais maintenant j'ai une autre domestique au nom de Marguerite Desfayes qui vient de Grandvaux.
+J'héberge également mon apprentie bernoise qui s'appelle Léonor ainsi que Francois qui m'aide en tant que commis de cuisine et qui vient d'Orzens. Je suis heureux de savoir que Léonor va pouvoir reprendre mon commerce lorsque je serai trop agé pour m'en occuper.
