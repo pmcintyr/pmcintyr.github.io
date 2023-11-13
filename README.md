@@ -17,31 +17,31 @@ Verify the house numbers are in strictly increasing order for a same street, by 
 Track the homeowner name continuity by comparing yearly files for a same address.
 
 ### Task 6
-Map rows between each yearly file and make a streetmap with yearly evolution of the best homeowner mappings.
+Map rows between each yearly file and illustrate qualitative descriptions of the lives of the best mapped homeowners.
 
 ### Recits Lausannois
 ![AI-generated Photo of Jean Mandrot's Family](/docs/assets/jean_mandrot.jpg)
 
 Je m'appelle Jean Mandrot, et je suis né en 1785 à Morges, au bord du lac Léman en Suisse. 
 Dès mon plus jeune âge, j'ai développé un vif intérêt pour la loi et la justice, ce qui m'a finalement conduit à devenir avocat.
-Durant mes études juridiques, j'ai rencontré l'amour de ma vie, Hendens, une femme extraordinaire avec qui j'ai pu fonder une famille à Lausanne à la place de la Riponne 23. Nous nous sommes mariés et nous avons eu cinq enfants merveilleux, Lina, Jules, Dorille, Marie, et Elisa. Au fil des ans, notre maison est devenue un lieu accueillant pour plusieurs pensionnaires qui ont trouvé refuge sous notre toit. Parmi ces pensionnaires, Anne Roth était une cuisinière distinguée. Ses plats délicieux ont uni notre famille autour de la nourriture, même si je dois vous avouer que notre petite Elisa préférait jouer avec sa nourriture que de la manger. Nos enfants ont grandi et se sont épanouis, suivant leurs propres chemins dans la vie avec les valeurs que nous leur avons transmises. Je suis reconnaissant pour la vie que j'ai eue, pour ma famille aimante et pour la chance d'avoir pu servir ma communauté en tant qu'avocat. J'espère que vous trouverez autant de bonheur dans votre vie que moi et ma famille et je dois vous dire adieu, je suis en retard pour le procès de mon client!
+Durant mes études juridiques, j'ai rencontré l'amour de ma vie, Hendens, une femme extraordinaire avec qui j'ai pu fonder une famille à Lausanne à la Place de la Riponne 23. Nous nous sommes mariés et nous avons eu cinq enfants merveilleux, Lina, Jules, Dorille, Marie, et Elisa. Au fil des ans, notre maison est devenue un lieu accueillant pour plusieurs pensionnaires qui ont trouvé refuge sous notre toit. Parmi ces pensionnaires, Anne Roth était une cuisinière distinguée. Ses plats délicieux ont uni notre famille autour de la nourriture, même si je dois vous avouer que notre petite Elisa préférait jouer avec sa nourriture que de la manger. Nos enfants ont grandi et se sont épanouis, suivant leurs propres chemins dans la vie avec les valeurs que nous leur avons transmises. Je suis reconnaissant pour la vie que j'ai eue, pour ma famille aimante et pour la chance d'avoir pu servir ma communauté en tant qu'avocat. J'espère que vous trouverez autant de bonheur dans votre vie que moi et ma famille et je dois vous dire adieu, je suis en retard pour le procès de mon client!
 
 ![AI-generated Photo of Charles Perrin and brothers](/docs/assets/charles_perrin.jpg)
-Je m'appelle Charles Perrin, je viens de Lausanne et j'habite à la rue d'Ouchy 8 depuis ma naissance.
-Je suis né en 1801 et j'ai grandi dans une famille de pêcheurs avec mes frères Jean-Gaspard et Samuel-André.
+Je m'appelle Charles Perrin, je viens de Lausanne et j'habite à l'Avenue d'Ouchy 8 depuis que je suis né, c'est-à-dire en 1801.
+J'ai grandi dans une famille de pêcheurs avec mes frères Jean-Gaspard et Samuel-André.
 J'ai épousé Julie Blanc, née en 1807, avec qui j'ai eu 2 enfants: Louis et Henri, nés en 1835 et 1842.
 Mes frères et moi sommes tous pêcheurs et nous pêchons ensemble tous les jours pour nourrir notre famille.
 Nous vivons sans pensionnaires, mais avec mes frères on se sent jamais seul!
 
 ![AI-generated Photo of Maurice Epach and appentice](/docs/assets/maurice_epach.jpg)
-Je m'appelle Maurice Epach, je suis né en 1805 à Lausanne et j'habite à la rue du pré 1.
+Je m'appelle Maurice Epach, je suis né en 1805 à Lausanne et j'habite à la Rue Centrale 1 qui s'appelait à mon époque la Rue du Pré.
 Je suis un marchand célibataire et sans enfants.
 Pour me porter compagnie, j'ai décidé d'héberger des pensionnaires pour m'assister dans mes tâches quotidiennes.
 D'abord j'avais une domestique qui s'appelait Marie Sorent, mais maintenant j'ai une autre domestique au nom de Marguerite Desfayes qui vient de Grandvaux.
 J'héberge également mon apprentie bernoise qui s'appelle Léonor ainsi que Francois qui m'aide en tant que commis de cuisine et qui vient d'Orzens. Je suis heureux de savoir que Léonor va pouvoir reprendre mon commerce lorsque je serai trop agé pour m'en occuper.
 
 ![AI-generated Photo of Auguste Piot and wife](/docs/assets/auguste_piot.jpg)
-Je m'appelle Auguste Piot, je suis né en 1784 à Pailly et j'habite à la rue de Caroline 60.
+Je m'appelle Auguste Piot, je suis né en 1784 à Pailly et j'habite à la Rue Caroline 60.
 Ma femme Ansermier est née en 1783 et est décédée en 1852.
 En 1845, nous avions hébergé une pensionnaire bernoise: Marie Pinchotte.
 À partir de 1848, on hébergeait 2 domestiques: Susette et Mermoud de Poliez-le-Grand.
