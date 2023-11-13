@@ -39,3 +39,9 @@ Je suis un marchand célibataire et sans enfants.
 Pour me porter compagnie, j'ai décidé d'héberger des pensionnaires pour m'assister dans mes tâches quotidiennes.
 D'abord j'avais une domestique qui s'appelait Marie Sorent, mais maintenant j'ai une autre domestique au nom de Marguerite Desfayes qui vient de Grandvaux.
 J'héberge également mon apprentie bernoise qui s'appelle Léonor ainsi que Francois qui m'aide en tant que commis de cuisine et qui vient d'Orzens. Je suis heureux de savoir que Léonor va pouvoir reprendre mon commerce lorsque je serai trop agé pour m'en occuper.
+
+![AI-generated Photo of Auguste Piot and wife](/docs/assets/auguste_piot.jpg)
+Je m'appelle Auguste Piot, je suis né en 1784 à Pailly et j'habite à la rue de Caroline 60.
+Ma femme Ansermier est née en 1783 et est décédée en 1852.
+En 1845, nous avions hébergé une pensionnaire bernoise: Marie Pinchotte.
+À partir de 1848, on hébergeait 2 domestiques: Susette et Mermoud de Poliez-le-Grand.
