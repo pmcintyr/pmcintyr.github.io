@@ -1,0 +1,1 @@
+Dans ce dossier se trouvent les fichiers de recensements avec une correction automatique sur les numéros de rue: on remplace les NaNs, points et interpoints par le numéro de rue dans la ligne précédente. On corrige également les chiffres en trop: 12,13,140 devient 12,13,14 en appliquant une division entière par 10 et 12,13,114 devient 12,13,14 en appliquant un modulo 100.
