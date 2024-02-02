@@ -1,0 +1,1 @@
+Dans ce dossier se trouve les fichiers sources originaux pour les recensements lausannoises par année.
