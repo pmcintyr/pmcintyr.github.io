@@ -1,0 +1,1 @@
+Dans ce dossier se trouve les recensements avec numéros de rue nettoyés ainsi que le nom du rue suggéré parmi le dictionnaire des 100 noms de rues les plus populaires ainsi que la distance de Levenshtein entre le nom de rue indiqué et suggéré.
