@@ -1,1 +1,1 @@
-Dans ce dossier se trouve les fichiers sources originaux pour les recensements lausannoises par année.
+Dans ce dossier se trouve les fichiers sources originaux pour les recensements lausannoises par année entre 1932 et 1955.
